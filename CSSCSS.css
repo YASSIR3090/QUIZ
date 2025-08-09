@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    background: #f0f8ff;
+    padding: 20px;
+}
+
+.quiz-box {
+    background: white;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+.swali {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px dotted #ddd;
+}
+
+label {
+    display: block;
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+button {
+    background: #003366;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    background: #002b52;
+}
